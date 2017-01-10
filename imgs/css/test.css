@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.test{
+	background-color:#009;
+	background-image:url(../imgs/page1_bg.jpg);
+	background-repeat:no-repeat;
+	background-position:10px 10px;
+}
